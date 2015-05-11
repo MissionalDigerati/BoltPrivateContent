@@ -2,10 +2,12 @@
   "name": "missionaldigerati/boltrprivatecontent",
   "description": "A small Twig extension built for the Bolt CMS to lock content down, and require a password to view it.",
   "type": "bolt-extension",
+  "version": "2.0.0",
   "keywords": [
     "twig",
-    "related",
-    "sorting"
+    "private content",
+    "protected content",
+    "restrict access"
   ],
   "license": "GPL-3.0+",
   "authors": [
